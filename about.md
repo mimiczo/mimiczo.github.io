@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# zhoon cho
 
-### More Information
+* Software engineer
 
-A place to include any other types of information that you'd like to include about yourself.
+##
 
-### Contact me
+### favorite
+ * Free diving
+ * Drinking
+ * Hiphop, Rap, ESENS
 
-[email@domain.com](mailto:email@domain.com)
+[zhoon80@gmail.com](mailto:zhoon80@gmail.com)
