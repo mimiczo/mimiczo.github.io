@@ -1,3 +1,3 @@
 # Zhoon Cho
 
-mimiczo[http://mimiczo.github.io].
+[mimiczo.github.io](http://mimiczo.github.io).
