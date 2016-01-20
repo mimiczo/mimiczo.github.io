@@ -1,3 +1,3 @@
-# mimiczo[http://mimiczo.github.io].
+# Zhoon Cho
 
-``2015``
+mimiczo[http://mimiczo.github.io].
